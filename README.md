@@ -1,2 +1,5 @@
 # hello-world
-Learning how to use GitHub
+Hi there!
+
+Bioinformatics student learning how to use GitHub 
+I really want to get to grips with this!
